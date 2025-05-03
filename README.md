@@ -16,3 +16,5 @@ cd Moon-recon-suite
 pip install whois requests beautifulsoup4
 python3 moon_recon_suite_v3.py
 ```
+## 🧠 Developer: ceh419
+For educational and ethical use only.
