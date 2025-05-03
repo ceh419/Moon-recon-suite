@@ -2,3 +2,16 @@
 this is power tools for web scanning 
 
 
+
+
+Install with:
+```bash
+apt update
+apt upgrade
+pkg install git
+pkg install pip
+pkg install python
+
+
+pip install requests
+```
